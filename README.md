@@ -43,7 +43,9 @@ Python
    
 
 ## Certifications
-|Cybersecurity Administration (Degree in Progress)|
-|Mastercard - Cybersecurity Job Simulation Certification of Completion|
-|Intro to Cybersecurtiy (Cisco Networking Academy)|
+Cybersecurity Administration (Degree in Progress)
+
+Mastercard - Cybersecurity Job Simulation Certification of Completion
+
+Intro to Cybersecurtiy (Cisco Networking Academy)
 
