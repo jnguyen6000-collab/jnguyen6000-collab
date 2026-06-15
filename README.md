@@ -25,7 +25,7 @@ Wireshark, aircrack-ng |[Exploiting Wireless Vulnerabilities (4e) - John Nguyen.
   NIST CSF, Risk Assessment                      | [Week 10 Lab_ Conducting a Vulnerability Assessment using the NIST Framework.pdf](https://github.com/user-attachments/files/28648792/Week.10.Lab_.Conducting.a.Vulnerability.Assessment.using.the.NIST.Framework.pdf) |
  Phishing                                       | [Phishing Presentation.pdf](https://github.com/user-attachments/files/28651618/Phishing.Presentation.pdf) and [Mastercard-Cybersecurity Job Simulation.pdf](https://github.com/user-attachments/files/28651617/Mastercard-Cybersecurity.Job.Simulation.pdf) |
 SIEM Dashboard and Splunk                      |      Splunk Lab                                      |
-Linux, Log Analysis, System Hardening          | Linux Lab                                            |
+Linux, Log Analysis, System Hardening          | Linux Lab, https://github.com/jnguyen6000-collab/OverTheWireBandit                                           |
 
 ## Tools
 ### Network
