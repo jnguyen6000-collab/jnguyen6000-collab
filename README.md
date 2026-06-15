@@ -23,7 +23,7 @@ Wireshark, aircrack-ng |[Exploiting Wireless Vulnerabilities (4e) - John Nguyen.
  Threat research, incident analysis             | [Video Presentation.pptx](https://github.com/user-attachments/files/28648555/Video.Presentation.pptx) |             
  Python                                         | [Final Project Updated.py](https://github.com/user-attachments/files/28648259/Final.Project.Updated.py)|
   NIST CSF, Risk Assessment                      | [Week 10 Lab_ Conducting a Vulnerability Assessment using the NIST Framework.pdf](https://github.com/user-attachments/files/28648792/Week.10.Lab_.Conducting.a.Vulnerability.Assessment.using.the.NIST.Framework.pdf) |
- Phishing                                       | [Phishing Job Simulation](https://www.theforage.com/simulations/mastercard/cybersecurity-t8ye)
+ Phishing                                       | [Forage Simulation](https://www.theforage.com/simulations/mastercard/cybersecurity-t8ye)
 SIEM Dashboard and Splunk                      |      Splunk Lab                                      |
 Linux, Log Analysis, System Hardening          | Linux Lab,  [OverTheWire Bandit (Levels 0-5)](https://github.com/jnguyen6000-collab/OverTheWireBandit )                                          |
 
