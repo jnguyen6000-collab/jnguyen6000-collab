@@ -40,8 +40,11 @@ Splunk
 
 ## Programming  
 Python
-   
 
+## Homelab
+UTM
+Ubuntu
+   
 ## Certifications
 Cybersecurity Administration (Degree in Progress)
 
