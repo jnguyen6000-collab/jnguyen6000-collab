@@ -14,15 +14,13 @@ My journey has led me to develop a passion for cybersecurity. I am eager to lear
 
 | Skill                                         | Associated Project                                  |
 |-----------------------------------------------|-----------------------------------------------------|
- Packet Analysis                                |  |
- Network Security and Nmap                      |                        |
- Vulnerable Assessment                          |  
- GPO, password & security configuration | |
- SQL Injection, XSS | |
-Wireshark, aircrack-ng ||
- Threat research, incident analysis             |  |             
- Python                                         | |
-  NIST CSF, Risk Assessment                      | []( |
+ Packet Analysis, Wireshark, aircrack-ng        | [Packet Capture Lab](https://github.com/jnguyen6000-collab/Coursework/blob/main/Packet%20Capture%20%26%20Session%20Hijacking.md) |
+ Network Security and Nmap                      | [ActiveReconnaissance](https://github.com/jnguyen6000-collab/Coursework/blob/main/ActiveReconnaissance.md)                      |
+ GPO, password & security configuration |[GPO Lab](https://github.com/jnguyen6000-collab/Coursework/blob/main/Managing%20Group%20Policy.md)|
+ SQL Injection, XSS | [Performing Web Application and Database Attacks.md](https://github.com/jnguyen6000-collab/Coursework/blob/main/Performing%20Web%20Application%20and%20Database%20Attacks.md) |
+ Threat research, incident analysis             | [MemoReport](https://github.com/jnguyen6000-collab/Coursework/blob/main/MemoReport.md) |             
+ Python                                         |[Project](https://github.com/jnguyen6000-collab/Coursework/blob/main/Python) |
+  NIST CSF, Risk Assessment                      | [NIST Framework Assessment](https://github.com/jnguyen6000-collab/Coursework/blob/main/NIST%20framework%20assessment.md) |
  Phishing                                       | [Forage Simulation](https://www.theforage.com/simulations/mastercard/cybersecurity-t8ye)
 SIEM Dashboard and Splunk                      |      Splunk Lab                                      |
 Linux, Log Analysis, System Hardening          | Linux Lab,  [OverTheWire Bandit (Levels 0-5)](https://github.com/jnguyen6000-collab/OverTheWireBandit )                                          |
