@@ -14,15 +14,15 @@ My journey has led me to develop a passion for cybersecurity. I am eager to lear
 
 | Skill                                         | Associated Project                                  |
 |-----------------------------------------------|-----------------------------------------------------|
- Packet Analysis                                | [Performing Packet Capture and Session Hijacking (4e) - John Nguyen.pdf](https://github.com/user-attachments/files/28647568/Performing.Packet.Capture.and.Session.Hijacking.4e.-.John.Nguyen.pdf) |
- Network Security and Nmap                      | [Performing Active Reconnaissance (4e) - John Nguyen.pdf](https://github.com/user-attachments/files/28647657/Performing.Active.Reconnaissance.4e.-.John.Nguyen.pdf)                         |
- Vulnerable Assessment                          |  [Exploiting Vulnerable Hosts (4e) - John Nguyen.pdf](https://github.com/user-attachments/files/28647679/Exploiting.Vulnerable.Hosts.4e.-.John.Nguyen.pdf)      |
- GPO, password & security configuration |[Managing_Group_Policy_within_the_Microsoft_Windows_Environment_3e_-_John_Nguyen.pdf](https://github.com/user-attachments/files/28648191/Managing_Group_Policy_within_the_Microsoft_Windows_Environment_3e_-_John_Nguyen.pdf) |
- SQL Injection, XSS |[Performing Web Application and Database Attacks (4e) - John Nguyen.pdf](https://github.com/user-attachments/files/28648213/Performing.Web.Application.and.Database.Attacks.4e.-.John.Nguyen.pdf) |
-Wireshark, aircrack-ng |[Exploiting Wireless Vulnerabilities (4e) - John Nguyen.pdf](https://github.com/user-attachments/files/28648240/Exploiting.Wireless.Vulnerabilities.4e.-.John.Nguyen.pdf)|
- Threat research, incident analysis             | [Video Presentation.pptx](https://github.com/user-attachments/files/28648555/Video.Presentation.pptx) |             
- Python                                         | [Final Project Updated.py](https://github.com/user-attachments/files/28648259/Final.Project.Updated.py)|
-  NIST CSF, Risk Assessment                      | [Week 10 Lab_ Conducting a Vulnerability Assessment using the NIST Framework.pdf](https://github.com/user-attachments/files/28648792/Week.10.Lab_.Conducting.a.Vulnerability.Assessment.using.the.NIST.Framework.pdf) |
+ Packet Analysis                                |  |
+ Network Security and Nmap                      |                        |
+ Vulnerable Assessment                          |  
+ GPO, password & security configuration | |
+ SQL Injection, XSS | |
+Wireshark, aircrack-ng ||
+ Threat research, incident analysis             |  |             
+ Python                                         | |
+  NIST CSF, Risk Assessment                      | []( |
  Phishing                                       | [Forage Simulation](https://www.theforage.com/simulations/mastercard/cybersecurity-t8ye)
 SIEM Dashboard and Splunk                      |      Splunk Lab                                      |
 Linux, Log Analysis, System Hardening          | Linux Lab,  [OverTheWire Bandit (Levels 0-5)](https://github.com/jnguyen6000-collab/OverTheWireBandit )                                          |
