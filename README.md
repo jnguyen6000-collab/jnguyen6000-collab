@@ -5,10 +5,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-nguyen-649371397/)
 
 
-I am a student at Holy Family University with a profound interest in cybersecurity. 
+I am a student at Holy Family University with a profound interest in Cybersecurity. 
 
 ## Objective
-My journey has led me to develop a passion for cybersecurity. I am eager to learn more about SOC analysis and security tools.
+My journey has led me to develop a passion for Cybersecurity. I am eager to learn more about SOC analysis and security tools.
 
 ## Skills
 
@@ -21,8 +21,8 @@ My journey has led me to develop a passion for cybersecurity. I am eager to lear
  Threat research, incident analysis             | [MemoReport](https://github.com/jnguyen6000-collab/Coursework/blob/main/MemoReport.md) |             
  Python                                         |[Project](https://github.com/jnguyen6000-collab/Coursework/blob/main/Python) |
   NIST CSF, Risk Assessment                      | [NIST Framework Assessment](https://github.com/jnguyen6000-collab/Coursework/blob/main/NIST%20framework%20assessment.md) |
- Phishing                                       | [Forage Simulation](https://www.theforage.com/simulations/mastercard/cybersecurity-t8ye)
-SIEM Dashboard and Splunk                      |      Splunk Lab                                      |
+ Phishing                                       | [Forage](https://www.theforage.com/simulations/mastercard/cybersecurity-t8ye)
+SIEM Dashboard and Splunk                      |     [Forage](https://www.theforage.com/simulations/commonwealth-bank/intro-cybersecurity-rdxl)                                   |
 Linux, Log Analysis, System Hardening          | [Linux Lab write-up](https://github.com/jnguyen6000-collab/Coursework/blob/main/Linux_Write_Up.md),  [OverTheWire Bandit (Levels 0-5)](https://github.com/jnguyen6000-collab/OverTheWireBandit )                                          |
 
 ## Tools
