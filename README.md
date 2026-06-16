@@ -23,7 +23,7 @@ My journey has led me to develop a passion for cybersecurity. I am eager to lear
   NIST CSF, Risk Assessment                      | [NIST Framework Assessment](https://github.com/jnguyen6000-collab/Coursework/blob/main/NIST%20framework%20assessment.md) |
  Phishing                                       | [Forage Simulation](https://www.theforage.com/simulations/mastercard/cybersecurity-t8ye)
 SIEM Dashboard and Splunk                      |      Splunk Lab                                      |
-Linux, Log Analysis, System Hardening          | Linux Lab,  [OverTheWire Bandit (Levels 0-5)](https://github.com/jnguyen6000-collab/OverTheWireBandit )                                          |
+Linux, Log Analysis, System Hardening          | [Linux Lab write-up](https://github.com/jnguyen6000-collab/Coursework/blob/main/Linux_Write_Up.md),  [OverTheWire Bandit (Levels 0-5)](https://github.com/jnguyen6000-collab/OverTheWireBandit )                                          |
 
 ## Tools
 ### Network
