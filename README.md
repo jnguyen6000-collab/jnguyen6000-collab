@@ -40,7 +40,7 @@ Splunk
 ## Programming  
 Python
 
-## [Homelab](https://github.com/jnguyen6000-collab/HomeLab)
+## [Virtual Lab](https://github.com/jnguyen6000-collab/HomeLab)
 UTM
 
 Ubuntu
