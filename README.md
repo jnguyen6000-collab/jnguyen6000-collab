@@ -24,7 +24,7 @@ My journey has led me to develop a passion for Cybersecurity. I am eager to lear
  Phishing                                       | [Forage](https://www.theforage.com/simulations/mastercard/cybersecurity-t8ye)
 SIEM Dashboard and Splunk                      |     [Forage](https://www.theforage.com/simulations/commonwealth-bank/intro-cybersecurity-rdxl)                                   |
 Linux, Log Analysis, System Hardening          | [Linux Lab write-up](https://github.com/jnguyen6000-collab/Coursework/blob/main/Linux_Write_Up.md),  [OverTheWire Bandit (Levels 0-5)](https://github.com/jnguyen6000-collab/OverTheWireBandit )                                          |
-SOC Analyst | [SimuAI] (https://simuai.io/practice) |
+SOC Analyst | [SimuAI](https://simuai.io/practice)|
 
 ## Tools
 ### Network
