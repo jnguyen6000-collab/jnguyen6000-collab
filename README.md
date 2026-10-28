@@ -44,7 +44,7 @@ Python
 ## [Virtual Lab](https://github.com/jnguyen6000-collab/HomeLab)
 UTM
 
-Ubuntu
+
    
 ## Certifications
 Cybersecurity Administration (Degree in Progress)
